@@ -142,6 +142,56 @@
 			)
 		)
 	)
+	(wire
+		(pts
+			(xy 163.83 72.39) (xy 163.83 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d61196e-74f2-47d9-9b10-b6ba681b8fdd")
+	)
+	(wire
+		(pts
+			(xy 128.27 72.39) (xy 163.83 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83e9e6f8-5fe4-4255-97be-2e93a3f593c3")
+	)
+	(wire
+		(pts
+			(xy 128.27 88.9) (xy 128.27 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96b3dec7-69c0-4d44-ad64-ea96a90c322d")
+	)
+	(wire
+		(pts
+			(xy 163.83 113.03) (xy 128.27 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac1fd4f1-04ca-4b93-8780-65808a6a4313")
+	)
+	(wire
+		(pts
+			(xy 128.27 113.03) (xy 128.27 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2c8ba2c-a582-4329-a31d-352d0de4b022")
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 128.27 92.71 0)
